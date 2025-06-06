@@ -1,0 +1,48 @@
+# Django
+*.pyc
+__pycache__/
+*.sqlite3
+*.pyo
+*.pyd
+.DS_Store
+.env
+.env/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Static files
+staticfiles/
+media/
+
+# Logs
+*.log
+logs/
+
+# Database migrations (optional)
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
