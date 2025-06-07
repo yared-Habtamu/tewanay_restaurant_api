@@ -19,7 +19,7 @@ A Django REST Framework backend for managing restaurant operations, including us
 
 ### Prerequisites
 - Python 3.8+
-- PostgreSQL (or SQLite for development)
+- dbsqlite
 - Git
 
 ### Setup
